@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+  }
+  h1.sticky{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #CDB99C;
+  border: 2px solid #ac997e;
+  text-align: center;
+  border-radius: 5px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  }
+ 
